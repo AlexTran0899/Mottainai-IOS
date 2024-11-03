@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7C20DC0D2CBA2C32002024DE /* Mottainai-IOS */ = {
+		7C6AAB6A2CD40A02004035D3 /* Mottainai-IOS */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Mottainai-IOS";
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		7C20DC022CBA2C32002024DE = {
 			isa = PBXGroup;
 			children = (
-				7C20DC0D2CBA2C32002024DE /* Mottainai-IOS */,
+				7C6AAB6A2CD40A02004035D3 /* Mottainai-IOS */,
 				7C20DC0C2CBA2C32002024DE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7C20DC0D2CBA2C32002024DE /* Mottainai-IOS */,
+				7C6AAB6A2CD40A02004035D3 /* Mottainai-IOS */,
 			);
 			name = "Mottainai-IOS";
 			packageProductDependencies = (
@@ -177,7 +177,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -234,7 +234,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -252,6 +252,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Mottainai-IOS/Preview Content\"";
+				DEVELOPMENT_TEAM = 36F5ZG3KS4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -280,6 +281,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Mottainai-IOS/Preview Content\"";
+				DEVELOPMENT_TEAM = 36F5ZG3KS4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
