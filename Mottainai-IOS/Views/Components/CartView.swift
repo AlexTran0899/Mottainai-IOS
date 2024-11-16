@@ -36,16 +36,17 @@ struct CartView: View {
                     Text(getTotal(merchant: merchant))
                 }.padding()
                 Spacer()
-                ZStack{
-                    Color.black
-                        .cornerRadius(20)
-                    Button {
-                        print("place order")
-                    } label: {
+                Button {
+                    print("place order")
+                } label: {
+                    ZStack{
+                        Color.black
+                            .cornerRadius(20)
                         Text("Place Order")
                             .foregroundColor(.white)
                             .font(.system(size: 28,weight: .bold))
                     }
+                  
                 }.frame(maxHeight: 60)
                     .padding()
             }
